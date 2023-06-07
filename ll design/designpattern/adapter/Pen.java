@@ -1,6 +1,7 @@
 package adapter;
 
-public class Pen {
+public interface Pen {
     
-    write();
+    public void write();
+   
 }
